@@ -69,7 +69,8 @@ helping visualize trends and understand the primary drivers behind glacial melti
 
 ## 📊 Visualization Example
 
-> 🧾 (Insert histogram or plot screenshot here if available)
+> 🧾 
+![Prediction histogram](https://github.com/user-attachments/assets/8be20628-ff0c-4cad-b876-7741e0acb07a)
 
 ---
 
